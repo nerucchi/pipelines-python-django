@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kiridashkun/Sample_App/_apis/build/status/nerucchi.pipelines-python-django?branchName=master)](https://dev.azure.com/kiridashkun/Sample_App/_build/latest?definitionId=4&branchName=master)
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
